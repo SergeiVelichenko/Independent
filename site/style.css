@@ -11,13 +11,13 @@ body {
 }
 
 fieldset {
-    border: solid 1px #981cc9;
+    border: solid 1px #1c70c9;
 }
 
 .legend {
     font-family: 'comic', sans-MS;
     letter-spacing: 4px;
-    color: #af1cc9;
+    color: #1c56c9;
     font-size: 20px;
 }
 
@@ -52,11 +52,11 @@ textarea {
 }
 
 .bordergreen:hover {
-    border: solid 2px #9e1cc9;
+    border: solid 2px #1c30c9;
 }
 
 .bordergreen:focus, textarea:focus {
-    border: solid 2px #b81cc9;
+    border: solid 2px #1c61c9;
 }
 
 form {
@@ -100,7 +100,7 @@ button {
 }
 
 button:hover, button:focus {
-    border-color: rgba(171, 9, 252, 0.8);
+    border-color: rgba(9, 94, 252, 0.8);
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
     outline: 0 none;
 }
@@ -129,7 +129,7 @@ input[type='radio']::before {
     border-radius: 50%;
     transform: translate(-50%, -50%);
     background-color: white;
-    border: 2px solid #a91cc9;
+    border: 2px solid #1c58c9;
 }
 
 input[type='radio']:checked::after {
@@ -140,7 +140,7 @@ input[type='radio']:checked::after {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background-color: #a11cc9;
+    background-color: #1c4ac9;
     transform: translate(-50%, -50%);
     visibility: visible;
 }
