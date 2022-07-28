@@ -1,6 +1,6 @@
 body {
     position: relative;
-    background-image: url(zima.jpg);
+    background-image: url(http://castlesworld.ru/foto/germany/Hohenzollern/Burg_Hohenzollern_1_.jpg);
     backdrop-filter: blur(0px);
     background-repeat: no-repeat;
     background-size: cover;
@@ -11,13 +11,13 @@ body {
 }
 
 fieldset {
-    border: solid 1px #1c70c9;
+    border: solid 1px #4992e1;
 }
 
 .legend {
     font-family: 'comic', sans-MS;
     letter-spacing: 4px;
-    color: #1c56c9;
+    color: #5182e4;
     font-size: 20px;
 }
 
@@ -52,11 +52,11 @@ textarea {
 }
 
 .bordergreen:hover {
-    border: solid 2px #1c30c9;
+    border: solid 2px #4d5ee2;
 }
 
 .bordergreen:focus, textarea:focus {
-    border: solid 2px #1c61c9;
+    border: solid 2px #4281e0;
 }
 
 form {
@@ -100,7 +100,7 @@ button {
 }
 
 button:hover, button:focus {
-    border-color: rgba(9, 94, 252, 0.8);
+    border-color: rgba(55, 124, 252, 0.8);
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
     outline: 0 none;
 }
@@ -129,7 +129,7 @@ input[type='radio']::before {
     border-radius: 50%;
     transform: translate(-50%, -50%);
     background-color: white;
-    border: 2px solid #1c58c9;
+    border: 2px solid #4e88f3;
 }
 
 input[type='radio']:checked::after {
@@ -140,7 +140,7 @@ input[type='radio']:checked::after {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background-color: #1c4ac9;
+    background-color: #3f6dec;
     transform: translate(-50%, -50%);
     visibility: visible;
 }
