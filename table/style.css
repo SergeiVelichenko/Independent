@@ -35,8 +35,8 @@ a:active {
 .links {
     display: inline-block;
     background-color: white;
-    height: 180px;
-    width: 180px;
+    height: 200px;
+    width: 200px;
     border: solid 5px;
 }
 
