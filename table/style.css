@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 219, 199);
+    background-color: rgb(239, 190, 164);
 }
 
 .under {
@@ -29,7 +29,7 @@ a:hover {
 }
 
 a:active {
-    color: grey;
+    color: rgb(164, 164, 164);
 }
 
 .links {
